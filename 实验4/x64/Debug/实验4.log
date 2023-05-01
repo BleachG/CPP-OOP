@@ -1,0 +1,9 @@
+﻿  String.cpp
+D:\VS 2021\program\c++面向对象\实验4\String.h(17,65): error C2801: “String::operator +”必须是非静态成员
+D:\VS 2021\program\c++面向对象\实验4\String.cpp(14,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS 2021\program\c++面向对象\实验4\String.cpp(23,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  源.cpp
+D:\VS 2021\program\c++面向对象\实验4\String.h(17,65): error C2801: “String::operator +”必须是非静态成员
+D:\VS 2021\program\c++面向对象\实验4\源.cpp(138,31): error C2264: “String::operator +”: 函数定义或声明中有错误；未调用函数
+D:\VS 2021\program\c++面向对象\实验4\源.cpp(138,22): error C2088: “+”: 对于 class 非法
+  正在生成代码...
